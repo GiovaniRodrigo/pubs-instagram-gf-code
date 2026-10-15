@@ -1,0 +1,48 @@
+# robots.txt — gfcode.com.br
+# Conteúdo público: liberado para buscadores e para assistentes/motores de IA (GEO).
+
+User-agent: *
+Allow: /
+Disallow: /404.html
+
+# Assistentes e motores de resposta com IA (citação e busca)
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: DuckAssistBot
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+Sitemap: https://gfcode.com.br/sitemap.xml

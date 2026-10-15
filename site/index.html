@@ -1,0 +1,231 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>GF Code — IA que atende com base nos dados da sua empresa</title>
+<meta name="description" content="A GF Code cria assistentes com IA e automações que respondem com base nos documentos e sistemas da sua empresa, sempre com a fonte. Diagnóstico gratuito.">
+<link rel="canonical" href="https://gfcode.com.br/">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<meta name="theme-color" content="#070d18">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="alternate" type="text/plain" title="LLM summary" href="/llms.txt">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="pt_BR">
+<meta property="og:site_name" content="GF Code">
+<meta property="og:title" content="GF Code — IA que atende com base nos dados da sua empresa">
+<meta property="og:description" content="Assistentes com IA que respondem clientes e equipe usando os documentos da sua empresa, com a fonte de cada resposta.">
+<meta property="og:url" content="https://gfcode.com.br/">
+<meta property="og:image" content="https://gfcode.com.br/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/assets/style.css">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://gfcode.com.br/#org",
+      "name": "GF Code",
+      "url": "https://gfcode.com.br/",
+      "logo": "https://gfcode.com.br/icon-512.png",
+      "description": "Empresa brasileira de software e inteligência artificial que cria assistentes com IA e automações baseados nos documentos e sistemas de cada empresa.",
+      "email": "giovani@gfcode.com.br",
+      "founder": { "@type": "Person", "name": "Giovani Fernandes" },
+      "areaServed": "BR",
+      "knowsAbout": ["Inteligência artificial", "Assistentes virtuais", "RAG (Retrieval-Augmented Generation)", "Automação de processos", "Chatbots para WhatsApp", "Redução de custo com IA"],
+      "sameAs": ["https://www.instagram.com/gf.code/", "https://www.tiktok.com/@gf.code"]
+    },
+    {
+      "@type": "ProfessionalService",
+      "@id": "https://gfcode.com.br/#service",
+      "name": "GF Code — Software e Inteligência Artificial",
+      "url": "https://gfcode.com.br/",
+      "image": "https://gfcode.com.br/og-image.png",
+      "email": "giovani@gfcode.com.br",
+      "areaServed": "BR",
+      "provider": { "@id": "https://gfcode.com.br/#org" },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Serviços",
+        "itemListElement": [
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Assistente com IA", "description": "Atende no WhatsApp, no site ou internamente, consultando manuais, contratos e políticas, com a fonte de cada resposta." } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Automação de tarefas com IA", "description": "A IA lê documentos, e-mails e planilhas, preenche sistemas e confere dados no lugar da equipe." } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Redução de custo com IA", "description": "Para quem já usa IA: mapeamos onde o dinheiro vai e ajustamos para gastar menos." } },
+          { "@type": "Offer", "price": "0", "priceCurrency": "BRL", "itemOffered": { "@type": "Service", "name": "Diagnóstico gratuito", "description": "Conversa de 30 minutos pelo WhatsApp, sem compromisso, para avaliar se a IA vale a pena no seu processo." } }
+        ]
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://gfcode.com.br/#site",
+      "url": "https://gfcode.com.br/",
+      "name": "GF Code",
+      "inLanguage": "pt-BR",
+      "publisher": { "@id": "https://gfcode.com.br/#org" }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        { "@type": "Question", "name": "Preciso entender de tecnologia?", "acceptedAnswer": { "@type": "Answer", "text": "Não. Você explica o problema com as suas palavras e nós cuidamos da parte técnica." } },
+        { "@type": "Question", "name": "E se a IA errar?", "acceptedAnswer": { "@type": "Answer", "text": "O assistente só responde com base nos seus documentos e mostra a fonte. Quando não encontra a informação, avisa e encaminha para uma pessoa." } },
+        { "@type": "Question", "name": "Preciso trocar meus sistemas?", "acceptedAnswer": { "@type": "Answer", "text": "Não. Conectamos a IA ao que você já usa: WhatsApp, site, planilhas, ERP ou CRM." } },
+        { "@type": "Question", "name": "Quanto tempo leva para ver funcionando?", "acceptedAnswer": { "@type": "Answer", "text": "O protótipo com os seus documentos reais fica pronto em poucas semanas. Você só investe depois de ver funcionando." } },
+        { "@type": "Question", "name": "Meus dados ficam seguros?", "acceptedAnswer": { "@type": "Answer", "text": "Sim. Seus dados e seu código continuam seus, com confidencialidade garantida em contrato e tratamento conforme a LGPD." } }
+      ]
+    }
+  ]
+}
+</script>
+</head>
+<body>
+<a class="skip" href="#conteudo">Pular para o conteúdo</a>
+
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="/" aria-label="GF Code, página inicial">
+      <svg viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" rx="14" fill="#070d18"/><rect x="2" y="2" width="60" height="60" rx="12" fill="none" stroke="#2ee6a6" stroke-width="3"/><text x="32" y="42" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="26" font-weight="800" fill="#2ee6a6">GF</text></svg>
+      GF Code
+    </a>
+    <nav class="nav" aria-label="Principal">
+      <a href="#servicos">Serviços</a>
+      <a href="#como-funciona">Como funciona</a>
+      <a href="#confianca">Por que a GF Code</a>
+      <a href="#duvidas">Dúvidas</a>
+      <a class="btn small" href="https://w.app/rzcv9j" rel="noopener">Diagnóstico gratuito</a>
+    </nav>
+  </div>
+</header>
+
+<main id="conteudo">
+  <section class="hero">
+    <div class="wrap">
+      <div>
+        <p class="eyebrow">Software e Inteligência Artificial</p>
+        <h1>Sua equipe para de responder as mesmas perguntas.</h1>
+        <p class="lead">Criamos assistentes com IA que respondem clientes e colaboradores usando os documentos da sua empresa. Com a fonte de cada resposta.</p>
+        <div class="cta-row">
+          <a class="btn" href="https://w.app/rzcv9j" rel="noopener">Quero um diagnóstico gratuito</a>
+          <a class="btn ghost" href="#como-funciona">Ver como funciona</a>
+        </div>
+        <p class="note">30 minutos · sem compromisso · pelo WhatsApp</p>
+      </div>
+      <div class="demo" role="img" aria-label="Exemplo: uma IA comum inventa a resposta; o assistente GF Code responde com a cláusula do contrato como fonte.">
+        <div class="bubble q">Qual o prazo de garantia do plano Pro?</div>
+        <div class="bubble bad"><span class="tag bad">✗ IA comum</span>"12 meses." — inventado</div>
+        <div class="bubble good"><span class="tag good">✓ Assistente GF Code</span>6 meses, contados a partir da ativação.<span class="src">Fonte: Contrato Plano Pro · cláusula 8.2</span></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="alt" aria-labelledby="t-dor">
+    <div class="wrap">
+      <div class="section-head"><h2 id="t-dor">Parece familiar?</h2></div>
+      <div class="grid">
+        <div class="card"><span class="icon" aria-hidden="true">💬</span><p>Sua equipe gasta horas respondendo perguntas que já estão em algum documento.</p></div>
+        <div class="card"><span class="icon" aria-hidden="true">⚠️</span><p>Testou um chatbot, mas ele inventava respostas e você não podia confiar.</p></div>
+        <div class="card"><span class="icon" aria-hidden="true">📈</span><p>Já usa IA, mas a conta cresce todo mês e ninguém sabe dizer por quê.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section id="servicos" aria-labelledby="t-serv">
+    <div class="wrap">
+      <div class="section-head">
+        <h2 id="t-serv">O que resolvemos</h2>
+        <p>Três entregas, cada uma com resultado que dá para medir.</p>
+      </div>
+      <div class="grid">
+        <article class="card">
+          <h3>Assistente com IA</h3>
+          <p>Atende no WhatsApp, no site ou internamente, consultando manuais, contratos e políticas. Mostra a fonte e recusa quando a informação não existe.</p>
+          <p class="result">→ Menos chamados repetidos</p>
+        </article>
+        <article class="card">
+          <h3>Automação de tarefas</h3>
+          <p>A IA lê documentos, e-mails e planilhas, preenche sistemas e confere dados no lugar da equipe.</p>
+          <p class="result">→ Horas devolvidas ao time</p>
+        </article>
+        <article class="card">
+          <h3>Redução de custo com IA</h3>
+          <p>Para quem já usa IA: encontramos onde o dinheiro vai e ajustamos modelos, contexto e cache para gastar menos.</p>
+          <p class="result">→ Custo por atendimento visível</p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section id="como-funciona" class="alt" aria-labelledby="t-como">
+    <div class="wrap">
+      <div class="section-head">
+        <h2 id="t-como">Como funciona</h2>
+        <p>Você só investe depois de ver funcionando com os seus dados.</p>
+      </div>
+      <div class="grid steps">
+        <div class="card"><h3>Conversa <span class="pill">Gratuito</span></h3><p>Entendemos o processo e dizemos com franqueza se a IA vale a pena.</p></div>
+        <div class="card"><h3>Protótipo</h3><p>Uma versão funcionando com seus documentos reais, em poucas semanas.</p></div>
+        <div class="card"><h3>Em produção</h3><p>Integrado aos seus canais, com acompanhamento de qualidade e custo.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section id="confianca" aria-labelledby="t-conf">
+    <div class="wrap trust">
+      <div>
+        <h2 id="t-conf">Por que confiar na GF Code</h2>
+        <div class="big-number">91,7%</div>
+        <p class="note">de acerto na detecção automática de formigueiros em imagens aéreas, em pesquisa com IA publicada pelo fundador na UFMS, com mais de 12 mil imagens.</p>
+      </div>
+      <ul class="checks">
+        <li>Experiência em sistemas para o setor público, onde erro não é opção.</li>
+        <li>Respostas sempre com fonte, e recusa quando não há informação.</li>
+        <li>Seus dados e seu código continuam seus.</li>
+        <li>Confidencialidade garantida em contrato e tratamento conforme a LGPD.</li>
+      </ul>
+    </div>
+  </section>
+
+  <section id="duvidas" class="alt" aria-labelledby="t-faq">
+    <div class="wrap" style="max-width:760px">
+      <h2 id="t-faq">Dúvidas comuns</h2>
+      <details><summary>Preciso entender de tecnologia?</summary><p>Não. Você explica o problema com as suas palavras e nós cuidamos da parte técnica.</p></details>
+      <details><summary>E se a IA errar?</summary><p>O assistente só responde com base nos seus documentos e mostra a fonte. Quando não encontra a informação, avisa e encaminha para uma pessoa.</p></details>
+      <details><summary>Preciso trocar meus sistemas?</summary><p>Não. Conectamos a IA ao que você já usa: WhatsApp, site, planilhas, ERP ou CRM.</p></details>
+      <details><summary>Quanto tempo leva para ver funcionando?</summary><p>O protótipo com os seus documentos reais fica pronto em poucas semanas. Você só investe depois de ver funcionando.</p></details>
+      <details><summary>Meus dados ficam seguros?</summary><p>Sim. Seus dados e seu código continuam seus, com confidencialidade garantida em contrato e tratamento conforme a LGPD. Veja a <a href="/privacidade/">Política de Privacidade</a>.</p></details>
+    </div>
+  </section>
+
+  <section class="final" aria-labelledby="t-final">
+    <div class="wrap">
+      <h2 id="t-final">Descubra em 30 minutos onde a IA economiza tempo na sua empresa.</h2>
+      <p class="lead">Sem custo e sem compromisso. Se não fizer sentido, vamos dizer.</p>
+      <div class="cta-row">
+        <a class="btn" href="https://w.app/rzcv9j" rel="noopener">Agendar diagnóstico gratuito</a>
+      </div>
+      <p class="note">Prefere e-mail? <a href="mailto:giovani@gfcode.com.br">giovani@gfcode.com.br</a></p>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <span>© 2026 GF Code · Software e Inteligência Artificial</span>
+    <nav aria-label="Rodapé">
+      <a href="/termos/">Termos de Uso</a>
+      <a href="/privacidade/">Privacidade</a>
+      <a href="https://www.instagram.com/gf.code/" rel="me noopener">Instagram</a>
+      <a href="https://www.tiktok.com/@gf.code" rel="me noopener">TikTok</a>
+      <a href="mailto:giovani@gfcode.com.br">Contato</a>
+    </nav>
+  </div>
+</footer>
+</body>
+</html>

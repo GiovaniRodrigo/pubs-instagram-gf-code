@@ -1,0 +1,296 @@
+# GF Code — conteúdo completo do site (gfcode.com.br)
+
+Versão em texto simples para assistentes e motores de IA. Atualizado em 2026-10-15.
+
+---
+
+URL: https://gfcode.com.br/
+
+Software e Inteligência Artificial
+
+# Sua equipe para de responder as mesmas perguntas.
+
+Criamos assistentes com IA que respondem clientes e colaboradores usando os documentos da sua empresa. Com a fonte de cada resposta.
+
+Quero um diagnóstico gratuito
+Ver como funciona
+
+30 minutos · sem compromisso · pelo WhatsApp
+
+Qual o prazo de garantia do plano Pro?
+
+✗ IA comum: "12 meses." — inventado
+
+✓ Assistente GF Code: 6 meses, contados a partir da ativação. Fonte: Contrato Plano Pro · cláusula 8.2
+
+## Parece familiar?
+
+💬
+Sua equipe gasta horas respondendo perguntas que já estão em algum documento.
+
+⚠️
+Testou um chatbot, mas ele inventava respostas e você não podia confiar.
+
+📈
+Já usa IA, mas a conta cresce todo mês e ninguém sabe dizer por quê.
+
+## O que resolvemos
+
+Três entregas, cada uma com resultado que dá para medir.
+
+### Assistente com IA
+
+Atende no WhatsApp, no site ou internamente, consultando manuais, contratos e políticas. Mostra a fonte e recusa quando a informação não existe.
+
+→ Menos chamados repetidos
+
+### Automação de tarefas
+
+A IA lê documentos, e-mails e planilhas, preenche sistemas e confere dados no lugar da equipe.
+
+→ Horas devolvidas ao time
+
+### Redução de custo com IA
+
+Para quem já usa IA: encontramos onde o dinheiro vai e ajustamos modelos, contexto e cache para gastar menos.
+
+→ Custo por atendimento visível
+
+## Como funciona
+
+Você só investe depois de ver funcionando com os seus dados.
+
+### Conversa Gratuito
+Entendemos o processo e dizemos com franqueza se a IA vale a pena.
+
+### Protótipo
+Uma versão funcionando com seus documentos reais, em poucas semanas.
+
+### Em produção
+Integrado aos seus canais, com acompanhamento de qualidade e custo.
+
+## Por que confiar na GF Code
+
+91,7%
+
+de acerto na detecção automática de formigueiros em imagens aéreas, em pesquisa com IA publicada pelo fundador na UFMS, com mais de 12 mil imagens.
+
+- Experiência em sistemas para o setor público, onde erro não é opção.
+
+- Respostas sempre com fonte, e recusa quando não há informação.
+
+- Seus dados e seu código continuam seus.
+
+- Confidencialidade garantida em contrato e tratamento conforme a LGPD.
+
+## Dúvidas comuns
+
+Preciso entender de tecnologia?
+Não. Você explica o problema com as suas palavras e nós cuidamos da parte técnica.
+
+E se a IA errar?
+O assistente só responde com base nos seus documentos e mostra a fonte. Quando não encontra a informação, avisa e encaminha para uma pessoa.
+
+Preciso trocar meus sistemas?
+Não. Conectamos a IA ao que você já usa: WhatsApp, site, planilhas, ERP ou CRM.
+
+Quanto tempo leva para ver funcionando?
+O protótipo com os seus documentos reais fica pronto em poucas semanas. Você só investe depois de ver funcionando.
+
+Meus dados ficam seguros?
+Sim. Seus dados e seu código continuam seus, com confidencialidade garantida em contrato e tratamento conforme a LGPD. Veja a Política de Privacidade.
+
+## Descubra em 30 minutos onde a IA economiza tempo na sua empresa.
+
+Sem custo e sem compromisso. Se não fizer sentido, vamos dizer.
+
+Agendar diagnóstico gratuito
+
+Prefere e-mail? giovani@gfcode.com.br
+
+---
+
+URL: https://gfcode.com.br/termos/
+
+# Termos de Uso
+
+Última atualização: 15 de outubro de 2026
+
+Estes Termos regulam o uso do site gfcode.com.br, dos canais de contato e dos serviços da GF Code, empresa de software e inteligência artificial ("GF Code", "nós"). Eles também regulam o GF Code Publisher, ferramenta interna da GF Code integrada ao TikTok e a outras redes sociais. Ao usar o site ou falar conosco, você concorda com estes Termos.
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+## 1. Uso do site
+
+O site apresenta a GF Code e seus serviços. Você pode navegar livremente e compartilhar os links. Não é permitido usar o site para atividades ilegais, tentar acessar áreas restritas, sobrecarregar o servidor ou coletar o conteúdo de forma automatizada para fins que violem a lei. Robôs de busca e de IA podem indexar o conteúdo público conforme o arquivo robots.txt.
+
+## 2. Serviços e contratação
+
+A GF Code desenvolve assistentes com IA, automações de tarefas e otimização de custo com IA para empresas. Cada projeto é contratado por proposta ou contrato próprio, que define escopo, prazos, valores, níveis de serviço e confidencialidade. Em caso de conflito, o contrato do projeto prevalece sobre estes Termos.
+
+## 3. Diagnóstico gratuito
+
+O diagnóstico é uma conversa de cerca de 30 minutos, sem custo e sem compromisso de contratação. As recomendações feitas nele são orientativas e não constituem proposta comercial vinculante.
+
+## 4. Sobre respostas geradas por IA
+
+Nossos assistentes são projetados para responder apenas com base nas fontes fornecidas pelo cliente, indicar a fonte de cada resposta e recusar quando não encontram a informação. Ainda assim, sistemas de IA podem cometer erros. Por isso recomendamos revisão humana em decisões importantes. O cliente é responsável pela exatidão e pela atualização dos documentos que disponibiliza.
+
+## 5. Propriedade intelectual
+
+A marca, os textos, a identidade visual e os conteúdos publicados pela GF Code pertencem à GF Code. Em projetos contratados, os dados e documentos do cliente continuam do cliente. A titularidade do código e dos entregáveis é definida no contrato de cada projeto.
+
+## 6. GF Code Publisher e integração com o TikTok
+
+O GF Code Publisher é uma ferramenta interna da GF Code que usa as APIs oficiais do TikTok (Login Kit e Content Posting API) exclusivamente para publicar vídeos produzidos pela própria GF Code no seu perfil oficial @gf.code.
+
+- Quem usa: apenas a equipe da GF Code, em contas do TikTok de propriedade da GF Code. A ferramenta não é oferecida ao público e não publica em contas de terceiros.
+
+- Autorização: a ferramenta só age depois de autorização explícita feita no login oficial do TikTok. A permissão pode ser revogada a qualquer momento no app do TikTok, em Configurações e privacidade › Segurança › Apps e serviços.
+
+- Conteúdo: todo vídeo publicado é de autoria da GF Code ou usado com permissão. Conteúdos gerados ou editados com IA recebem o rótulo de conteúdo gerado por IA do TikTok.
+
+- Regras do TikTok: o uso segue os Termos de Serviço, as Diretrizes da Comunidade e as políticas para desenvolvedores do TikTok, que prevalecem em caso de conflito.
+
+- Sem vínculo: a GF Code não é afiliada, patrocinada ou endossada pelo TikTok ou pela ByteDance. TikTok é marca de seus respectivos titulares.
+
+## 7. Outras redes sociais
+
+A GF Code também publica conteúdo próprio no Instagram, no LinkedIn e no X, por ferramentas oficiais ou autorizadas dessas plataformas, e pode usar automações de mensagem (por exemplo, enviar um material por mensagem direta quando você comenta uma palavra-chave). Ao interagir conosco nessas redes, valem também os termos de cada plataforma.
+
+## 8. Limitação de responsabilidade
+
+O conteúdo do site e das redes da GF Code é informativo e não substitui avaliação técnica do seu caso. O site e as ferramentas internas são fornecidos "no estado em que se encontram". A GF Code não responde por indisponibilidades, mudanças ou falhas de serviços de terceiros, como as APIs do TikTok, da Meta ou de provedores de IA. Nada nestes Termos limita direitos garantidos pelo Código de Defesa do Consumidor ou pela legislação aplicável.
+
+## 9. Privacidade
+
+O tratamento de dados pessoais é descrito na nossa Política de Privacidade, que faz parte destes Termos.
+
+## 10. Alterações e lei aplicável
+
+Podemos atualizar estes Termos. A data no topo indica a versão vigente. Estes Termos são regidos pelas leis da República Federativa do Brasil.
+
+## 11. Contato
+
+E-mail: giovani@gfcode.com.br · Instagram: @gf.code
+
+## Terms of Service (English summary)
+
+These terms govern the website gfcode.com.br, GF Code's services and GF Code Publisher, an internal tool that uses TikTok's official APIs (Login Kit and Content Posting API) solely to publish GF Code's own videos to its official TikTok profile, @gf.code. The tool is used only by the GF Code team with TikTok accounts owned by GF Code; it is not offered to the public and never posts to third-party accounts. It acts only after explicit authorization through TikTok's official login, and access can be revoked at any time in TikTok's settings (Security › Apps and services). All content is created by GF Code or used with permission, and AI-generated content is labeled as such. Use complies with TikTok's Terms of Service, Community Guidelines and developer policies. GF Code is not affiliated with or endorsed by TikTok or ByteDance. Services are provided "as is"; GF Code is not liable for outages or changes in third-party APIs. Personal data handling is described in our Privacy Policy. Governing law: Brazil. Contact: giovani@gfcode.com.br.
+
+---
+
+URL: https://gfcode.com.br/privacidade/
+
+# Política de Privacidade
+
+Última atualização: 15 de outubro de 2026
+
+Esta Política explica como a GF Code trata dados pessoais no site gfcode.com.br, nos atendimentos, nos projetos de IA e no GF Code Publisher, nossa integração com o TikTok. Ela segue a Lei Geral de Proteção de Dados (Lei nº 13.709/2018, "LGPD").
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+## 1. Quem é o controlador
+
+A GF Code, empresa de software e inteligência artificial, é a controladora dos dados descritos aqui, exceto nos projetos de clientes, em que atua como operadora (veja o item 4).
+
+## 2. Quais dados tratamos e por quê
+
+| Situação | Dados | Finalidade | Base legal (LGPD)
+
+| Visita ao site | Endereço IP, navegador, páginas acessadas e data/hora, em registros técnicos do servidor | Segurança, prevenção de abuso e funcionamento do site | Legítimo interesse (art. 7º, IX) e Marco Civil da Internet
+
+| Contato por WhatsApp, e-mail ou redes sociais | Nome, telefone ou e-mail, empresa e o conteúdo da conversa | Responder, agendar o diagnóstico e enviar proposta | Procedimentos preliminares a contrato (art. 7º, V) e legítimo interesse
+
+| Comentários e mensagens no Instagram | Nome de usuário e a mensagem enviada | Responder e entregar materiais pedidos (por exemplo, quando você comenta uma palavra-chave) | Legítimo interesse e atendimento ao seu pedido
+
+| Clientes | Dados de contato e de faturamento dos responsáveis | Executar o contrato e cumprir obrigações fiscais | Execução de contrato e obrigação legal (art. 7º, II e V)
+
+| GF Code Publisher (TikTok) | Veja o item 3 | Publicar os vídeos da GF Code no perfil @gf.code | Execução da autorização dada pelo titular da conta
+
+Não vendemos dados pessoais e não os usamos para publicidade de terceiros.
+
+## 3. Dados do TikTok (GF Code Publisher)
+
+O GF Code Publisher é uma ferramenta interna que usa as APIs oficiais do TikTok (Login Kit e Content Posting API) apenas para publicar vídeos da própria GF Code no perfil oficial @gf.code. Ela é usada somente pela equipe da GF Code, em contas da GF Code.
+
+- O que acessamos: o identificador da conta autorizada (open ID), o nome de exibição e a foto do perfil (escopo user.info.basic), os tokens de acesso emitidos pelo TikTok após o login oficial e o status das publicações feitas pela ferramenta (escopos video.upload e video.publish).
+
+- O que não acessamos: dados de seguidores ou espectadores, mensagens diretas, contatos, localização ou qualquer conta que não seja da GF Code.
+
+- Uso: confirmar em qual conta publicar, enviar os vídeos com legenda e verificar se a publicação foi concluída.
+
+- Armazenamento: os tokens ficam em ambiente controlado pela GF Code, com acesso restrito e criptografia em trânsito (HTTPS). Eles nunca são exibidos, vendidos ou compartilhados, exceto com o próprio TikTok para realizar as publicações.
+
+- Revogação e exclusão: a autorização pode ser revogada a qualquer momento no app do TikTok, em Configurações e privacidade › Segurança › Apps e serviços. Ao revogar, os tokens deixam de funcionar e são apagados dos nossos sistemas em até 30 dias. Você também pode pedir a exclusão pelo contato do item 12.
+
+O tratamento feito pelo próprio TikTok segue a Política de Privacidade do TikTok.
+
+## 4. Dados em projetos de clientes
+
+Quando construímos um assistente ou automação, tratamos documentos e dados fornecidos pelo cliente em nome dele, como operadores (art. 39 da LGPD). Seguimos as instruções do cliente e o contrato, que define confidencialidade, local de armazenamento, provedores de IA utilizados e prazo de retenção. Os dados do cliente não são usados para treinar modelos de IA nem para qualquer finalidade fora do projeto.
+
+## 5. Cookies
+
+Este site não usa cookies de rastreamento nem ferramentas de publicidade. As fontes tipográficas são carregadas do Google Fonts, o que faz o seu navegador enviar o endereço IP ao Google ao abrir a página, conforme a política de privacidade do Google.
+
+## 6. Compartilhamento e transferência internacional
+
+Compartilhamos dados apenas com fornecedores necessários para operar: hospedagem do site e dos sistemas, provedores de e-mail, WhatsApp e Meta (Instagram), TikTok, ferramentas de automação de mensagens e, em projetos, os provedores de IA definidos em contrato. Alguns desses fornecedores processam dados fora do Brasil. Nesses casos, adotamos as salvaguardas previstas no art. 33 da LGPD, como cláusulas contratuais e fornecedores com padrões adequados de proteção. Também podemos compartilhar dados quando exigido por lei ou ordem de autoridade competente.
+
+## 7. Retenção e exclusão
+
+- Registros técnicos do site: até 6 meses, conforme o Marco Civil da Internet.
+
+- Conversas de contato que não viraram contrato: até 12 meses após o último contato.
+
+- Dados de clientes: durante o contrato e pelo prazo exigido por lei para fins fiscais.
+
+- Tokens do TikTok: enquanto a autorização estiver ativa, e até 30 dias após a revogação.
+
+## 8. Segurança
+
+Usamos conexão criptografada (HTTPS), controle de acesso por necessidade, senhas e chaves fora do código-fonte e atualização regular dos sistemas. Nenhum sistema é 100% imune a incidentes. Se ocorrer um incidente relevante, comunicaremos os titulares afetados e a ANPD conforme a lei.
+
+## 9. Seus direitos
+
+Pela LGPD (art. 18), você pode pedir: confirmação de que tratamos seus dados, acesso, correção, anonimização, bloqueio ou eliminação de dados desnecessários, portabilidade, informação sobre compartilhamentos, revogação do consentimento e revisão de decisões automatizadas. Respondemos em até 15 dias pelo contato abaixo. Você também pode reclamar à Autoridade Nacional de Proteção de Dados (ANPD).
+
+## 10. Crianças e adolescentes
+
+Nossos serviços são destinados a empresas e profissionais. Não coletamos intencionalmente dados de menores de 18 anos.
+
+## 11. Alterações
+
+Podemos atualizar esta Política. A data no topo indica a versão vigente, e mudanças relevantes serão destacadas no site.
+
+## 12. Contato e encarregado
+
+Encarregado pelo tratamento de dados (DPO): Giovani Fernandes · giovani@gfcode.com.br
+
+## Privacy Policy (English summary)
+
+GF Code processes personal data under Brazil's LGPD. On this website we keep only technical server logs (IP, browser, pages, time) for security; we use no tracking or advertising cookies. When you contact us (WhatsApp, e-mail, Instagram) we use your contact details only to reply and prepare proposals. In client projects we act as a processor, following the client's instructions; client data is never used to train AI models.
+
+TikTok (GF Code Publisher): an internal tool that uses TikTok's official Login Kit and Content Posting API solely to publish GF Code's own videos to its official profile, @gf.code. It accesses only the authorized account's open ID, display name and avatar (user.info.basic), the access tokens issued by TikTok, and the status of posts it makes (video.upload, video.publish). It does not access followers', viewers' or any third-party data. Tokens are stored in a GF Code–controlled environment with restricted access, never sold or shared except with TikTok to perform the posts. Authorization can be revoked anytime in TikTok's settings (Security › Apps and services); tokens are then deleted within 30 days. You may request access, correction or deletion of your data at giovani@gfcode.com.br; we reply within 15 days.

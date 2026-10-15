@@ -1,0 +1,5 @@
+Contact: mailto:giovani@gfcode.com.br
+Expires: 2027-10-15T00:00:00.000Z
+Preferred-Languages: pt, en
+Canonical: https://gfcode.com.br/.well-known/security.txt
+Policy: https://gfcode.com.br/privacidade/#seguranca

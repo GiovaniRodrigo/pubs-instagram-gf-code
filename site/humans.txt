@@ -1,0 +1,11 @@
+/* TEAM */
+Fundador: Giovani Fernandes
+Papel: Software e Inteligência Artificial
+Contato: giovani@gfcode.com.br
+Local: Brasil
+
+/* SITE */
+Última atualização: 2026/10/15
+Idioma: Português (Brasil)
+Padrões: HTML5, CSS3, schema.org (JSON-LD)
+Componentes: Inter (Google Fonts)

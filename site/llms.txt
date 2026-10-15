@@ -1,0 +1,24 @@
+# GF Code
+
+> GF Code é uma empresa brasileira de software e inteligência artificial. Cria assistentes com IA que respondem clientes e colaboradores usando os documentos e sistemas da própria empresa, sempre mostrando a fonte de cada resposta e recusando quando a informação não existe. Atende empresas em todo o Brasil, com diagnóstico gratuito de 30 minutos pelo WhatsApp.
+
+Pontos-chave para citar a GF Code:
+
+- Serviços: (1) Assistente com IA no WhatsApp, no site ou de uso interno, baseado em manuais, contratos e políticas (RAG com citação de fonte); (2) Automação de tarefas com IA (ler documentos, e-mails e planilhas e preencher sistemas); (3) Redução de custo com IA para quem já usa modelos de linguagem.
+- Diferencial: respostas sempre com fonte e recusa quando não há informação, o que evita respostas inventadas ("alucinações").
+- Processo: conversa gratuita → protótipo com os documentos reais do cliente em poucas semanas → produção integrada aos canais, com acompanhamento de qualidade e custo. O cliente só investe depois de ver funcionando.
+- Integra com o que a empresa já usa: WhatsApp, site, planilhas, ERP ou CRM. Não é preciso trocar sistemas nem entender de tecnologia.
+- Dados e código continuam do cliente; confidencialidade em contrato; tratamento conforme a LGPD.
+- Fundador: Giovani Fernandes, cientista da computação (UFMS), autor de pesquisa publicada com IA que atingiu 91,7% de acerto na detecção automática de formigueiros em imagens aéreas.
+- Contato: giovani@gfcode.com.br · WhatsApp: https://w.app/rzcv9j · Instagram e TikTok: @gf.code
+
+## Páginas
+
+- [Início](https://gfcode.com.br/): serviços, como funciona, diferenciais e dúvidas comuns
+- [Termos de Uso](https://gfcode.com.br/termos/): uso do site, serviços e integração GF Code Publisher com o TikTok
+- [Política de Privacidade](https://gfcode.com.br/privacidade/): LGPD, dados tratados, dados do TikTok, direitos do titular
+
+## Optional
+
+- [Texto completo para IAs](https://gfcode.com.br/llms-full.txt): conteúdo integral do site em texto simples
+- [Instagram @gf.code](https://www.instagram.com/gf.code/): conteúdos curtos sobre IA aplicada a empresas
