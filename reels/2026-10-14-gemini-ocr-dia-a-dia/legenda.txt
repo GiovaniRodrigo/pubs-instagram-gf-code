@@ -1,0 +1,16 @@
+Pare de digitar o que a câmera pode ler. 📷✨
+
+O Gemini Live usa a câmera do celular pra ler qualquer texto (OCR, reconhecimento óptico de caracteres) e, com IA, já age nos seus apps do Google:
+
+📅 Cartaz de evento → compromisso na Agenda
+📝 Lista escrita à mão → nota no Keep
+✅ Quadro da reunião → tarefas no Google Tasks
+📍 Endereço num cartão → rota no Maps
+
+Tudo numa conversa só, sem trocar de app.
+
+Como testar: abra o Gemini Live, toque na câmera, aponte e peça "salva isso na minha agenda".
+
+💾 Salva pra testar depois e segue o @gf.code pra mais IA no dia a dia.
+
+#gemini #googlegemini #inteligenciaartificial #ia #ocr #produtividade #googleagenda #tecnologia #dicasdetecnologia
