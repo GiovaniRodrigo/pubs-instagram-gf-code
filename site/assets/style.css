@@ -1,13 +1,13 @@
 /* GF Code — site oficial */
 :root {
-  --bg: #070d18;
-  --bg-2: #0c1526;
-  --card: #101b30;
-  --line: #1d2a44;
-  --fg: #e8eef8;
-  --muted: #9aa8bf;
-  --accent: #2ee6a6;
-  --accent-ink: #04130d;
+  --bg: #12202f;
+  --bg-2: #162638;
+  --card: #1b2e44;
+  --line: #2a4058;
+  --fg: #ecf4fa;
+  --muted: #a0b6c8;
+  --accent: #06e5f8;
+  --accent-ink: #04121c;
   --warn: #ff7a7a;
   --radius: 14px;
   --max: 1080px;
@@ -37,7 +37,8 @@ img { max-width: 100%; display: block; }
 .site-header { position: sticky; top: 0; z-index: 5; background: color-mix(in srgb, var(--bg) 88%, transparent); backdrop-filter: blur(10px); border-bottom: 1px solid var(--line); }
 .site-header .wrap { display: flex; align-items: center; justify-content: space-between; height: 64px; gap: 16px; }
 .brand { display: flex; align-items: center; gap: 10px; color: var(--fg); text-decoration: none; font-weight: 700; letter-spacing: -.01em; }
-.brand svg { width: 28px; height: 28px; }
+.brand img { height: 30px; width: auto; }
+.brand span { font-weight: 700; } .brand .light { font-weight: 400; }
 .nav { display: flex; gap: 22px; align-items: center; }
 .nav a { color: var(--muted); text-decoration: none; font-size: .95rem; }
 .nav a:hover { color: var(--fg); }
