@@ -1,0 +1,16 @@
+Chatbot e agente de IA não são a mesma coisa. 🤖
+
+💬 Chatbot responde: você pergunta, ele explica.
+🤖 Agente executa: recebe um objetivo, decide os passos e usa as ferramentas da empresa.
+
+Exemplo, pedido atrasado:
+→ o chatbot explica a política de entrega
+→ o agente consulta o pedido, verifica a transportadora, abre o chamado e avisa o cliente
+
+Mas agente sem limite é risco. Ele precisa de regras claras, fonte confiável e uma pessoa aprovando o que é crítico.
+
+Regra prática: a tarefa é responder? Chatbot. É executar? Agente.
+
+💾 Salva pra lembrar e segue o @gf.code pra mais IA aplicada de verdade.
+
+#inteligenciaartificial #ia #agentesdeia #chatbot #automacao #atendimentoaocliente #tecnologia #produtividade
