@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<meta name="referrer" content="no-referrer">
+<title>Autorização TikTok · GF Code Publisher</title>
+<style>
+  body{margin:0;background:#12202f;color:#ecf4fa;font:16px/1.6 system-ui,sans-serif}
+  main{max-width:640px;margin:0 auto;padding:48px 16px}
+  .box{background:#1b2e44;border:1px solid #2a4058;border-radius:12px;padding:16px;margin:16px 0;word-break:break-all;font-family:ui-monospace,Menlo,monospace;font-size:14px}
+  button{background:#06e5f8;color:#04121c;border:0;border-radius:10px;padding:10px 16px;font-weight:600;cursor:pointer}
+  .err{color:#ff7a7a}
+  small{color:#a0b6c8}
+</style>
+</head>
+<body>
+<main>
+  <h1>GF Code Publisher</h1>
+  <div id="out"></div>
+  <small>Esta página só exibe o código no seu navegador. Nada é enviado para servidor algum.</small>
+</main>
+<script>
+  (function () {
+    var p = new URLSearchParams(location.search);
+    var out = document.getElementById('out');
+    var code = p.get('code'), state = p.get('state'), err = p.get('error');
+    function el(tag, txt, cls) { var e = document.createElement(tag); e.textContent = txt; if (cls) e.className = cls; return e; }
+    if (err) {
+      out.appendChild(el('p', 'O TikTok retornou um erro: ' + err + (p.get('error_description') ? ' — ' + p.get('error_description') : ''), 'err'));
+      return;
+    }
+    if (!code) { out.appendChild(el('p', 'Nenhum código de autorização encontrado nesta página.')); return; }
+    out.appendChild(el('p', 'Autorização concluída. Copie o código abaixo e rode o comando de troca na máquina do publisher:'));
+    var box = el('div', code, 'box'); out.appendChild(box);
+    var btn = el('button', 'Copiar código');
+    btn.onclick = function () { navigator.clipboard.writeText(code).then(function () { btn.textContent = 'Copiado'; }); };
+    out.appendChild(btn);
+    if (state) out.appendChild(el('p', 'state: ' + state));
+    history.replaceState(null, '', location.pathname);
+  })();
+</script>
+</body>
+</html>
