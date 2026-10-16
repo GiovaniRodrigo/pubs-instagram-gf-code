@@ -1,20 +1,32 @@
-I.A. não faz o seu trabalho. 🧠
+I.A. não faz o seu trabalho. Mas automatiza a parte repetitiva dele. 🤖
 
-Ela faz o rascunho. O trabalho continua sendo seu.
+Passo a passo pra colocar IA numa automação:
 
-O que a IA entrega rápido:
-→ primeira versão de texto, planilha ou código
-→ resumo de documento longo
-→ lista de ideias e caminhos
+1️⃣ Escolha UMA tarefa repetitiva
+Algo que você faz toda semana do mesmo jeito: responder e-mail de orçamento, resumir reunião, classificar pedido de suporte.
 
-O que continua sendo seu:
-→ saber o que pedir (papel + tarefa + formato + fonte)
-→ conferir se está certo antes de enviar
-→ decidir o que vale e o que vai pro lixo
+2️⃣ Defina o gatilho
+O que dispara a automação? Chegou e-mail, entrou formulário, caiu mensagem no WhatsApp, apareceu linha nova na planilha.
 
-Quem trata a IA como estagiária rápida ganha horas. Quem trata como chefe repassa erro pro cliente.
+3️⃣ Escreva o prompt como uma instrução de trabalho
+Papel + tarefa + formato + fonte.
+Ex.: "Você é atendente da loja. Leia o e-mail abaixo, identifique produto e prazo e responda em até 5 linhas, usando só a tabela de preços anexa."
 
-👉 Segue o @gf.code pra usar IA sem repassar erro pro cliente.
-💾 Salva esse vídeo pra consultar depois.
+4️⃣ Conecte as ferramentas
+Use Make, Zapier, n8n ou ManyChat: gatilho → IA (ChatGPT, Claude ou Gemini) → ação (enviar resposta, salvar na planilha, abrir chamado).
 
-#inteligenciaartificial #ia #chatgpt #produtividade #trabalho #prompt #tecnologia #carreira
+5️⃣ Coloque uma pessoa no meio no começo
+Nas primeiras semanas, a IA gera o rascunho e você aprova antes de enviar. Só libere o automático quando ela acertar com frequência.
+
+6️⃣ Teste com casos reais e ajuste
+Rode 10 exemplos de verdade, veja onde errou e melhore o prompt ou a fonte de dados.
+
+7️⃣ Meça o ganho
+Quanto tempo economizou por semana? Quantos erros caíram? Se não melhorou, ajuste ou desligue.
+
+A IA executa. Você define a regra e confere o resultado.
+
+👉 Segue o @gf.code pra mais automações com IA aplicadas de verdade.
+💾 Salva esse passo a passo pra montar a sua.
+
+#automacao #inteligenciaartificial #ia #chatgpt #n8n #zapier #make #produtividade #nocode
