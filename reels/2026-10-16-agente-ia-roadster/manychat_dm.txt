@@ -1,0 +1,19 @@
+Gatilho ManyChat: comentário contendo AGENTE no post "agente de IA x carro voador" (2026-10-16)
+Resposta pública no comentário: "Te mandei no direct! 🤖"
+
+Mensagem no direct:
+Opa! Aqui está o passo a passo pra montar seu primeiro agente de IA 🤖
+
+🌎 1. AMBIENTE: escolha um lugar pequeno pra ele atuar (ex.: a caixa de e-mail de orçamentos ou o WhatsApp de atendimento).
+
+👀 2. PERCEPÇÃO: defina o gatilho. O que faz o agente "acordar"? Ex.: chegou e-mail com a palavra "orçamento".
+
+🧠 3. RACIOCÍNIO: escreva as regras como instrução de trabalho:
+Papel + tarefa + formato + fonte.
+Ex.: "Você é atendente da loja. Leia o e-mail, identifique produto e prazo e responda em até 5 linhas usando só a tabela de preços anexa."
+
+⚙️ 4. AÇÃO: conecte só as ferramentas necessárias (Make, Zapier ou n8n → ChatGPT/Claude/Gemini → responder, salvar na planilha, abrir chamado).
+
+🔁 5. CICLO: nas primeiras semanas, ele faz o rascunho e você aprova antes de enviar. Rode 10 casos reais, ajuste as regras e só então libere no automático.
+
+Salva essa mensagem e segue o @gf.code pra mais IA aplicada de verdade 💙
