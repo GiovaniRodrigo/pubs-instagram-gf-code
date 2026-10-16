@@ -14,22 +14,23 @@ HTML = f"""<!doctype html><html><head><meta charset="utf-8"><style>
 *{{box-sizing:border-box;margin:0;padding:0}}
 html,body{{width:1080px;height:1920px;overflow:hidden;font-family:Inter,sans-serif;color:#e8ecf2;
  background:radial-gradient(110% 70% at 50% 42%,#13202f 0%,#0a0f17 60%,#05080d 100%)}}
-.wrap{{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:0 90px}}
-img{{width:200px;height:200px;object-fit:contain;margin-bottom:70px}}
-.k{{font-size:46px;color:#8b97a8;font-weight:700}}
-.h{{font-size:104px;font-weight:900;letter-spacing:-2px;line-height:1.05;margin:18px 0 70px}}
+.wrap{{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:0 80px}}
+.prof{{display:flex;align-items:center;gap:34px;background:#0f1520;border:3px solid #2a3547;border-radius:40px;padding:34px 44px;margin-bottom:90px}}
+.prof img{{width:150px;height:150px;border-radius:50%;background:#05080d;border:4px solid #06e5f8;object-fit:contain;padding:18px}}
+.prof .n{{font-size:58px;font-weight:900;text-align:left}}.prof .d{{font-size:32px;color:#8b97a8;text-align:left;margin-top:6px}}
+.h{{font-size:150px;font-weight:900;letter-spacing:-4px;line-height:.95}}
 .h span{{color:#06e5f8}}
-.row{{display:flex;gap:26px;justify-content:center;margin-bottom:80px}}
-.chip{{font-size:44px;font-weight:800;padding:20px 36px;border-radius:999px;border:3px solid #2a3547;background:#0f1520}}
-.handle{{font-size:120px;font-weight:900;color:#06e5f8}}
-.sub{{font-size:40px;color:#8b97a8;margin-top:14px}}
+.sub{{font-size:46px;color:#b8c2d0;font-weight:600;margin:34px 0 80px}}
+.btn{{font-size:68px;font-weight:900;color:#05080d;background:#06e5f8;border-radius:999px;padding:34px 110px;box-shadow:0 0 70px #06e5f866}}
+.hand{{font-size:110px;margin-top:-18px;transform:translateX(150px)}}
+.alt{{font-size:44px;font-weight:800;margin-top:50px;color:#e8ecf2}}
 </style></head><body><div class="wrap">
-<img src="data:image/png;base64,{logo}">
-<div class="k">A IA faz o rascunho.</div>
-<div class="h">O trabalho<br>é <span>seu</span>.</div>
-<div class="row"><div class="chip">💾 Salva</div><div class="chip">📤 Compartilha</div></div>
-<div class="sub">segue pra mais IA aplicada</div>
-<div class="handle">@gf.code</div>
+<div class="prof"><img src="data:image/png;base64,{logo}"><div><div class="n">@gf.code</div><div class="d">IA aplicada de verdade</div></div></div>
+<div class="h">SEGUE<br>o <span>@gf.code</span></div>
+<div class="sub">pra usar IA sem repassar erro pro cliente</div>
+<div class="btn">Seguir</div>
+<div class="hand">👆</div>
+<div class="alt">💾 E salva esse vídeo pra consultar depois</div>
 </div></body></html>"""
 
 with sync_playwright() as p:
