@@ -17,12 +17,12 @@ CYAN = (6, 229, 248, 255)
 
 # (início, fim, tipo, texto)
 CUES = [
-    (0.15, 3.0,  "hook", "O carro da Tesla “voa”.\nMas não sozinho."),
-    (3.0,  5.0,  "word", "AMBIENTE"),
-    (5.0,  7.0,  "word", "PERCEPÇÃO"),
-    (7.0,  9.0,  "word", "RACIOCÍNIO"),
-    (9.0,  10.5, "word", "AÇÃO"),
-    (10.8, 15.0, "pill", "Leia a legenda \U0001F447"),
+    (0.15, 3.62, "hook", "O carro da Tesla “voa”.\nMas não sozinho."),
+    (3.67, 5.72, "word", "AMBIENTE"),
+    (5.75, 6.97, "word", "PERCEPÇÃO"),
+    (7.0,  8.22, "word", "RACIOCÍNIO"),
+    (8.25, 12.15, "word", "AÇÃO"),
+    (12.3, 15.0, "pill", "Leia a legenda \U0001F447"),
 ]
 STEP = {"AMBIENTE": 1, "PERCEPÇÃO": 2, "RACIOCÍNIO": 3, "AÇÃO": 4}
 
@@ -63,6 +63,11 @@ def render_pill(text, path):
         pg.set_content(html); pg.screenshot(path=str(path), omit_background=True); b.close()
 
 
+BLUR = TMP / "src_blur.mp4"
+subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", str(SRC), "-filter_complex",
+    "[0:v]split[a][b];[b]crop=280:140:220:0,boxblur=18:3[bl];[a][bl]overlay=220:0:enable='between(t,5.7,7.02)'[v]",
+    "-map", "[v]", "-map", "0:a", "-c:v", "libx264", "-crf", "16", "-c:a", "copy", str(BLUR)], check=True)
+SRC = BLUR
 inputs, chains = [], []
 for i, (t0, t1, kind, text) in enumerate(CUES):
     png = TMP / f"cue{i}.png"
