@@ -1,0 +1,19 @@
+Lancei o Solo Marketer OS. 🚀
+
+Em muita empresa pequena, uma única pessoa cuida de mídia paga, e-mail, redes sociais e relatórios. Ela trabalha muito, mas quando o CEO pergunta "quanto o marketing deu de retorno este mês?", falta um jeito simples de provar em números.
+
+Desenvolvi o Solo Marketer OS para essa pessoa:
+
+→ Ela descreve o que vende em 3 campos (empresa, o que resolve e nicho).
+→ O sistema parte de uma dor real e documentada do mercado (são 422 mapeadas) e entrega a esteira de copy pronta para Meta, LinkedIn, e-mail, Reels e landing page.
+→ No fim, gera um relatório de 1 página com faturamento, investimento, lucro, CAC contra a meta e ROAS. Sem métrica de vaidade.
+
+Integra com Meta, Google, LinkedIn e TikTok Ads, HubSpot, Pipedrive, Salesforce, Hotmart, Kiwify, Shopify, VTEX, GA4, ActiveCampaign, Omie e Conta Azul.
+
+O plano Pro tem um assistente de IA que vê a tela e executa ações no sistema, com o LLM de sua escolha (Claude, ChatGPT ou Gemini).
+
+7 dias grátis, sem cartão: https://solomarketeros.gfcode.com.br/
+
+Se você faz marketing sozinho ou conhece quem faz, adoraria ouvir sua opinião. 💙
+
+#marketingdigital #saas #inteligenciaartificial #marketing #empreendedorismo
